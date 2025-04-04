@@ -39,16 +39,16 @@ This project simulates a **robot as a point** in a 2D space, which:
 
 ---
 
-## 🌀 Simulation Preview
+## Simulation 
 
-## 💻 Set It Up for Yourself
+##  Set It Up for Yourself
 
-### 📦 Requirements
+### Requirements
 
 - Python 3.x
 - `numpy`
 - `matplotlib`
-- `pillow` (for saving gifs)
+- `pillow` (for gifs)
 
 ```bash
 pip install numpy matplotlib pillow
