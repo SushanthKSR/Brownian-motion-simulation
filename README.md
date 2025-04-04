@@ -40,6 +40,8 @@ This project simulates a **robot as a point** in a 2D space, which:
 ---
 
 ## Simulation 
+![brownian_motion](https://github.com/user-attachments/assets/fbfbc251-a66d-4617-af1b-013c640716c6)
+### Result showing the brownian movement of the robot
 
 ##  Set It Up for Yourself
 
@@ -54,3 +56,6 @@ This project simulates a **robot as a point** in a 2D space, which:
 pip install numpy matplotlib pillow
 
 ```
+
+
+#### Sushanth Kesamreddy
